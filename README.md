@@ -1,0 +1,2 @@
+# Freezy
+GitHub Pages

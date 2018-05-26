@@ -135,7 +135,7 @@ body {
   background-color: #f7ed4a !important;
 }
 .bg-info {
-  background-color: #82786e !important;
+  background-color: #1ccf1a !important;
 }
 .bg-warning {
   background-color: #879a9f !important;
@@ -185,8 +185,8 @@ body {
 }
 .btn-info,
 .btn-info:active {
-  background-color: #82786e !important;
-  border-color: #82786e !important;
+  background-color: #1ccf1a !important;
+  border-color: #1ccf1a !important;
   color: #ffffff !important;
 }
 .btn-info:hover,
@@ -194,14 +194,14 @@ body {
 .btn-info.focus,
 .btn-info.active {
   color: #ffffff !important;
-  background-color: #59524b !important;
-  border-color: #59524b !important;
+  background-color: #138b11 !important;
+  border-color: #138b11 !important;
 }
 .btn-info.disabled,
 .btn-info:disabled {
   color: #ffffff !important;
-  background-color: #59524b !important;
-  border-color: #59524b !important;
+  background-color: #138b11 !important;
+  border-color: #138b11 !important;
 }
 .btn-success,
 .btn-success:active {
@@ -349,22 +349,22 @@ body {
 .btn-info-outline,
 .btn-info-outline:active {
   background: none;
-  border-color: #4b453f;
-  color: #4b453f;
+  border-color: #10740f;
+  color: #10740f;
 }
 .btn-info-outline:hover,
 .btn-info-outline:focus,
 .btn-info-outline.focus,
 .btn-info-outline.active {
   color: #ffffff;
-  background-color: #82786e;
-  border-color: #82786e;
+  background-color: #1ccf1a;
+  border-color: #1ccf1a;
 }
 .btn-info-outline.disabled,
 .btn-info-outline:disabled {
   color: #ffffff !important;
-  background-color: #82786e !important;
-  border-color: #82786e !important;
+  background-color: #1ccf1a !important;
+  border-color: #1ccf1a !important;
 }
 .btn-success-outline,
 .btn-success-outline:active {
@@ -470,7 +470,7 @@ body {
   color: #f7ed4a !important;
 }
 .text-info {
-  color: #82786e !important;
+  color: #1ccf1a !important;
 }
 .text-warning {
   color: #879a9f !important;
@@ -498,7 +498,7 @@ a.text-success:focus {
 }
 a.text-info:hover,
 a.text-info:focus {
-  color: #4b453f !important;
+  color: #10740f !important;
 }
 a.text-warning:hover,
 a.text-warning:focus {
@@ -520,7 +520,7 @@ a.text-black:focus {
   background-color: #70c770;
 }
 .alert-info {
-  background-color: #82786e;
+  background-color: #1ccf1a;
 }
 .alert-warning {
   background-color: #879a9f;
@@ -574,7 +574,7 @@ a:hover {
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
-  color: #beb8b2;
+  color: #bff7be;
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
@@ -1378,7 +1378,7 @@ body {
 .cid-qHLyiCcCMY {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-color: #f9f9f9;
+  background-color: #073b4c;
 }
 .cid-qHLyiCcCMY h4 {
   font-weight: 500;
@@ -1398,11 +1398,72 @@ body {
 .cid-qHLyiCcCMY P {
   text-align: left;
 }
-.cid-qT9Ifols0X {
+.cid-qHLyiCcCMY .card-title {
+  color: #cccccc;
+}
+.cid-qHLyiCcCMY B {
+  color: #ffffff;
+}
+.cid-qTaovz1E3p {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #dbd4b8, #25aab2);
+  background: linear-gradient(0deg, #0f7699, #073b4c);
 }
-.cid-qT9Ifols0X .btn {
-  margin: 0 0 .5rem 0;
+.cid-qTaovz1E3p .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-qTaovz1E3p .social-list a:focus {
+  text-decoration: none;
+}
+.cid-qTaovz1E3p H2 {
+  text-align: center;
+  color: #232323;
+}
+.cid-qTaq6DwyJ6 {
+  background-color: #073b4c;
+}
+.cid-qTaritRQZm {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #073b4c;
+}
+.cid-qTaritRQZm h4 {
+  font-weight: 500;
+  color: #ffffff;
+}
+.cid-qTaritRQZm p {
+  color: #ffffff;
+}
+.cid-qTaritRQZm .card {
+  margin-bottom: 2rem;
+}
+.cid-qTaritRQZm .card-img {
+  border-radius: 0;
+  padding: 2rem 2rem 0 2rem;
+  background-color: #149dcc;
+}
+.cid-qTaritRQZm .card-img span {
+  font-size: 100px;
+  color: #ffffff;
+}
+.cid-qTaritRQZm .card-box {
+  padding-bottom: 2rem;
+  background-color: #149dcc;
+  background: linear-gradient(#149dcc, transparent);
+}
+.cid-qTaritRQZm .card-box .card-title {
+  margin: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-qTaritRQZm .card-box .mbr-text {
+  margin-bottom: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-qTaritRQZm .card-box .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-qTaritRQZm .card-box .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
 }

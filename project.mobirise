@@ -39,7 +39,7 @@
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x116.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
